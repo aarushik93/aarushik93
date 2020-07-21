@@ -4,6 +4,8 @@ I <s>copy and paste from stackoverflow</s> code and build things at Netlify. [I 
 
 I also spend time lurking conspiracy threads on reddit, the more outrageous the better :grin:
 
+[Check out my personal blog as well](https://aiwith.me)
+
 <!--
 **aarushik93/aarushik93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
